@@ -1,0 +1,83 @@
+@import url(https://cdn.jsdelivr.net/npm/swiper@11/swiper.min.css);
+@import url(https://cdn.jsdelivr.net/npm/swiper@11/modules/a11y.min.css);
+
+.swiper-carousel {
+    position: relative;
+    margin: 0 auto;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+.swiper-carousel .swiper-slide,
+.swiper-carousel swiper-slide {
+    position: relative;
+}
+
+.swiper-green-marrilee-878 {
+    user-select: none;
+    box-sizing: border-box;
+    overflow: hidden;
+    width: 100%;
+    height: 300px;
+    padding: 0px 0px;
+}
+
+.swiper-green-marrilee-878 .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 72%;
+    height: 100%;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.swiper-green-marrilee-878 .swiper-slide-bg-image {
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+}
+
+.swiper-green-marrilee-878 .swiper-slide-bg-image-7cef {
+    object-fit: contain;
+}
+
+@media (min-width: 768px) {
+    .swiper-green-marrilee-878 {
+        width: 100%;
+        height: 300px;
+        padding: 0px 0px;
+    }
+    .swiper-green-marrilee-878 .swiper-slide {
+        width: 100%;
+        height: 100%;
+    }
+}
+
+@media (min-width: 1280px) {
+    .swiper-green-marrilee-878 {
+        width: 100%;
+        height: 300px;
+        padding: 0px 0px;
+    }
+    .swiper-green-marrilee-878 .swiper-slide {
+        width: 43%;
+        height: 100%;
+    }
+}
+
+@media (min-width: 1920px) {
+    .swiper-green-marrilee-878 {
+        width: 100%;
+        height: 300px;
+        padding: 0px 0px;
+    }
+    .swiper-green-marrilee-878 .swiper-slide {
+        width: 27%;
+        height: 100%;
+    }
+}
+```
