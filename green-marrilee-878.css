@@ -26,7 +26,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 72%;
+    width: 100%;
     height: 100%;
     position: relative;
     box-sizing: border-box;
@@ -64,7 +64,7 @@
         padding: 0px 0px;
     }
     .swiper-green-marrilee-878 .swiper-slide {
-        width: 43%;
+        width: 100%;
         height: 100%;
     }
 }
@@ -76,7 +76,7 @@
         padding: 0px 0px;
     }
     .swiper-green-marrilee-878 .swiper-slide {
-        width: 27%;
+        width: 100%;
         height: 100%;
     }
 }
